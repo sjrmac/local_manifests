@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Exhibit II 4G -->
+  <project name="sjrmac/android_device_samsung_ancora_tmo" path="device/samsung/ancora_tmo" remote="github" />
+  <project name="sjrmac/android_device_sony_common" path="device/sony/common" remote="github" />
+  <project name="sjrmac/android_device_qcom_common" path="device/qcom/common" remote="github" />
+  <project name="sjrmac/android_kernel_sony_msm8x27" path="kernel/sony/msm8x27" remote="github" />
+  <!-- Lumia -->
+  <project name="Android4Lumia/device_nokia_fame" path="device/nokia/fame" remote="github" />
+  <project name="Android4Lumia/kernel_nokia_msm8x27" path="kernel/nokia/msm8x27" remote="github" revision="lumia-cm-13.0" />
+  <!-- TheMuppets -->
+  <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" remote="github" />
+  <!-- TWRP -->
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-6.0" />
+  <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" />
+</manifest>
