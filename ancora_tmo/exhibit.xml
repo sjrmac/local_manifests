@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Exhibit -->
+  <project name=“ancora-tmo/android_device_samsung_ancora_tmo” path="device/samsung/ancora_tmo” remote="github" revision=“cm-13.0” />
+  <project name=“ancora-tmo/android_kernel_samsung_ancora_tmo” path="kernel/samsung/ancora_tmo” remote="github" revision="cm-13.0" />
+  <project name=“ancora-tmo/android_vendor_samsung_ancora_tmo” path=“vendor/samsung/ancora_tmo” remote=“github” revision=“cm-13.0” />
+  <!-- MSM7X30 GitHub -->
+  <project name=“msm7x30/android_hardware_qcom_display” path=“hardware/qcom/display-caf/msm7x30“ remote="github" revision=“cm-13.0-caf-7x30” />
+  <project name=“msm7x30/android_hardware_qcom_media” path=“hardware/qcom/media-caf/msm7x30“ remote="github" revision=“cm-13.0-caf-7x30” />
+</manifest>
