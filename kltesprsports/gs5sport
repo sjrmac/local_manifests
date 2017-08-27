@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Galaxy S5 Sport -->
+  <project name="sjrmac/android_device_samsung_kltesprsports" path="device/samsung/kltesprsports" remote="github" revision="cm-14.1" />
+  <project name="sjrmac/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-14.1" />
+  <project name="sjrmac/android_kernel_samsung_klte” path="kernel/samsung/klte” remote="github" revision="cm-14.1" />
+  <project name="sjrmac/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+</manifest>
