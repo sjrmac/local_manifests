@@ -7,7 +7,7 @@
   <!-- Galaxy S5 -->
   <project name="LineageOS/android_device_samsung_klte" path="device/samsung/klte" remote="github" revision="cm-14.1" />
   <project name="sjrmac/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-14.1" />
-  <project name="sjrmac/android_kernel_samsung_msm8974” path="kernel/samsung/klte” remote="github" revision="cm-14.1" />
+  <project name="sjrmac/android_kernel_samsung_msm8974" path="kernel/samsung/klte" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
