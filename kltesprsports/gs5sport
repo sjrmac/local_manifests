@@ -2,7 +2,18 @@
 <manifest>
   <!-- Galaxy S5 Sport -->
   <project name="sjrmac/android_device_samsung_kltesprsports" path="device/samsung/kltesprsports" remote="github" revision="cm-14.1" />
-  <project name="sjrmac/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-14.1" />
-  <project name="sjrmac/android_kernel_samsung_klte” path="kernel/samsung/klte” remote="github" revision="cm-14.1" />
   <project name="sjrmac/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-14.1" />
+  <project name="sjrmac/proprietary_vendor_samsung_kltesprsports" path="vendor/samsung/kltesprsports" remote="github" revision="cm-14.1" />
+  <!-- Galaxy S5 -->
+  <project name="LineageOS/android_device_samsung_klte" path="device/samsung/klte" remote="github" revision="cm-14.1" />
+  <project name="sjrmac/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-14.1" />
+  <project name="sjrmac/android_kernel_samsung_msm8974” path="kernel/samsung/klte” remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_device_samsung_qcom-common" path="device/samsung/qcom-common" revision="cm-14.1" />
+  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
+  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
+  <!-- Packages -->
+  <project name="LineageOS/android_packages_apps_FlipFlap" path="packages/apps/FlipFlap" remote="github" revision="cm-14.1" />
+  <!-- QCOM -->
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1"/>
 </manifest>
